@@ -1,0 +1,13 @@
+gensim
+matplotlib
+yellowbrick
+scikit-learn
+scipy
+numpy
+hazm
+nltk
+pandas
+Scrapy
+gensim
+matplotlib
+yellowbrick

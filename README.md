@@ -2,5 +2,5 @@
 Here you can find code samples attached to my application for the MPhil in Data Intensive Science program.
 
 1. `AstronomicalScheduling` is part of my work at the Iranian National Observatory on utilizing machine learning for astronomical object scheduling.
-1. `HierarchicalProbabilisticUnet-PyTorch` is a PyTorch implementation of [Hierarchical Probabilstic U-Net](https://github.com/deepmind/deepmind-research/tree/master/hierarchical_probabilistic_unet) by me, which was used in one of my MSc research projects.
+1. `HierarchicalProbabilisticUnet-PyTorch` is my PyTorch implementation of the [Hierarchical Probabilstic U-Net](https://github.com/deepmind/deepmind-research/tree/master/hierarchical_probabilistic_unet), which was used in one of my MSc research projects.
 1. `NLPCourseProject` is part of my undergraduate NLP course project on developing a search engine. The project was done in groups of two.
